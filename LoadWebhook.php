@@ -5,8 +5,8 @@ require_once "../../lib/DiscordWebhook.php";
 require_once "../../lib/DiscordEmbed.php";
 
 $webhook = [
-  "url" => "https://discordapp.com/api/webhooks/625657136378019840/ffDprzXmHRPJQprc1oBtzAq1dPN0_jo6X-BT2Fw7Cmy8wcYcstOYLhS9SmCoWF7IIO1c",
-  "username" => "",
+  "url" => "https://discordapp.com/api/webhooks/724213792782942229/-Ni1BFxSm1GL_S7fVzFORXj2_Qc48DX3CTCcxH9DDnP5Njsi0srdtt6aP7eGn0sROSTB",
+  "username" => "NOWA REKRUTACJA",
   "avatar" => ""
 ];
 
